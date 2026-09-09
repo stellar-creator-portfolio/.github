@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/stellar-creator.jpg" alt="Stellar Creator Portfolio" width="100%" />
+  <img src="stellar-creator.jpg" alt="Stellar Creator Portfolio" width="100%" />
 </p>
 
 # Stellar Creator Portfolio
